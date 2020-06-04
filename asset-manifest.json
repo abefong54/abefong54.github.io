@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/afong-portfolio/static/css/main.ac8781c5.chunk.css",
+    "main.js": "/afong-portfolio/static/js/main.5c31c9db.chunk.js",
+    "main.js.map": "/afong-portfolio/static/js/main.5c31c9db.chunk.js.map",
+    "runtime-main.js": "/afong-portfolio/static/js/runtime-main.16f7113c.js",
+    "runtime-main.js.map": "/afong-portfolio/static/js/runtime-main.16f7113c.js.map",
+    "static/css/2.30c2d978.chunk.css": "/afong-portfolio/static/css/2.30c2d978.chunk.css",
+    "static/js/2.25bce256.chunk.js": "/afong-portfolio/static/js/2.25bce256.chunk.js",
+    "static/js/2.25bce256.chunk.js.map": "/afong-portfolio/static/js/2.25bce256.chunk.js.map",
+    "index.html": "/afong-portfolio/index.html",
+    "precache-manifest.db609c06474423969ad649429d34272b.js": "/afong-portfolio/precache-manifest.db609c06474423969ad649429d34272b.js",
+    "service-worker.js": "/afong-portfolio/service-worker.js",
+    "static/css/2.30c2d978.chunk.css.map": "/afong-portfolio/static/css/2.30c2d978.chunk.css.map",
+    "static/css/main.ac8781c5.chunk.css.map": "/afong-portfolio/static/css/main.ac8781c5.chunk.css.map",
+    "static/js/2.25bce256.chunk.js.LICENSE.txt": "/afong-portfolio/static/js/2.25bce256.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/afong-portfolio/static/media/Montserrat-Regular.ee653992.ttf",
+    "static/media/database-icon.png": "/afong-portfolio/static/media/database-icon.1793ade3.png",
+    "static/media/digitalBeef.png": "/afong-portfolio/static/media/digitalBeef.625ddcff.png",
+    "static/media/disneyCompanyLogo.jpg": "/afong-portfolio/static/media/disneyCompanyLogo.2607b327.jpg",
+    "static/media/parlevelLogo.png": "/afong-portfolio/static/media/parlevelLogo.f0a22ea9.png",
+    "static/media/pitching.png": "/afong-portfolio/static/media/pitching.0562159c.png",
+    "static/media/profile-4.png": "/afong-portfolio/static/media/profile-4.d77c1c7e.png",
+    "static/media/proud.svg": "/afong-portfolio/static/media/proud.159ae1c5.svg",
+    "static/media/rowdyhacks.png": "/afong-portfolio/static/media/rowdyhacks.a897b644.png",
+    "static/media/tamudatathon.png": "/afong-portfolio/static/media/tamudatathon.c09f1ec8.png",
+    "static/media/tceq.png": "/afong-portfolio/static/media/tceq.d7dcd415.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.16f7113c.js",
+    "static/css/2.30c2d978.chunk.css",
+    "static/js/2.25bce256.chunk.js",
+    "static/css/main.ac8781c5.chunk.css",
+    "static/js/main.5c31c9db.chunk.js"
+  ]
+}
